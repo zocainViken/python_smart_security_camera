@@ -1,0 +1,10 @@
+cv2
+time
+uuid
+hashlib
+requests
+subprocess
+numpy 
+pathlib 
+os
+ultralytics
