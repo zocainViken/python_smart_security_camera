@@ -16,14 +16,18 @@ and for detection_device if you use and old graphic card, i recommand to use cpu
 
 yolo models  : https://huggingface.co/Ultralytics/YOLOv8/tree/main
 other models : https://github.com/anisayari/easy_facial_recognition/tree/master/pretrained_model
+haar model   : https://github.com/opencv/opencv/tree/master/data/haarcascades
 
+
+!!!!!!
+!!!!!!
+must be quit with "Q" or it will never stop  audio streaming problem i think 
 
 TODO:
-face extraction from person_n
-face recognition
-check if audio work
-enregistrement video/photo/audio
+synchronize audio and video   +- 12 sec de décallage
 motion tracking
+enregistrement video/photo/audio
+
 
 
 
